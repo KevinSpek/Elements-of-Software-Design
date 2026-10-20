@@ -32,7 +32,7 @@ It contains topics from Comptuer Science Algoritim and Data Structure Courses.
 ## Online Python Run and Memory Visualization 
  
  * https://pythontutor.com/
- * https://trinket.io/ 
+ * https://coddy.tech/playground/python 
 
 ## Python Tutorials
 
